@@ -11,6 +11,8 @@
 
 I'm a Flatiron School graduate, Penn State University graduate, Full Stack Software Engineer, semi-professional drummer, aspiring home chef, and Spotify playlist connoisseur. I've been playing the drums for 18 years, and I strive to cross the creativity I find behind the drum set into the code I write to create efficient, sophisticated applications.
 
+-- Any questions for me? Please reach out to my LinkedIn or [email](mailto:11ahj11@gmail.com)
+
 **Languages and Tools**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
