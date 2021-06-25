@@ -2,6 +2,9 @@
 <a href="https://www.linkedin.com/in/adam-h-james/">
   <img align="left" alt="Adam's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://adamjames-29088.medium.com/">
+  <img align="left" alt"Adam's Medium Blog" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/medium.svg" />
+</a>
 <a href="https://open.spotify.com/user/a_james324?si=0e7532a7a124444b">
   <img align="left" alt"Adam's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
@@ -30,6 +33,7 @@ I'm a Flatiron School graduate, Penn State University graduate, Full Stack Softw
   <li><a href="https://adamjames-29088.medium.com/edit-crud-action-in-react-redux-a-guide-153cb149dd8e"><b>Edit CRUD Action in React-Redux: A Guide</b></a><br><i>Learn how to create an edit option in your React-Redux application</i>
   <li><a href="https://adamjames-29088.medium.com/leetcode-contains-duplicate-ad47a71baa3a"><b>Leetcode Challenge: Contains Duplicate</b></a><br><i>My solution for LeetCode's Create Duplicate JavaScript Coding Challenge</i>
 </ul>
+<p><b>See more on my <a href="https://adamjames-29088.medium.com/">Medium blog</a></b></p>
 
 <!--
 **ah-james/ah-james** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
