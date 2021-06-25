@@ -21,7 +21,15 @@ I'm a Flatiron School graduate, Penn State University graduate, Full Stack Softw
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code>
+<br>
+<br>
 
+**Some Blog Posts**
+<ul>
+  <li><a href="https://adamjames-29088.medium.com/things-i-wish-i-knew-before-starting-a-coding-bootcamp-c7058b417635"><b>Things I Wish I Knew Before Starting a Coding Bootcamp</b></a><br><i>So you decided to take the leap into a Software Engineering bootcamp...</i>
+  <li><a href="https://adamjames-29088.medium.com/edit-crud-action-in-react-redux-a-guide-153cb149dd8e"><b>Edit CRUD Action in React-Redux: A Guide</b></a><br><i>Learn how to create an edit option in your React-Redux application</i>
+  <li><a href=-"https://adamjames-29088.medium.com/leetcode-contains-duplicate-ad47a71baa3a"><b>Leetcode Challenge: Contains Duplicate</b></a><br><i>My solution for LeetCode's Create Duplicate JavaScript Coding Challenge</i>
+</ul>
 
 <!--
 **ah-james/ah-james** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
