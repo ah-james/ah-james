@@ -2,9 +2,6 @@
 <a href="https://www.linkedin.com/in/adam-h-james/">
   <img align="left" alt="Adam's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://adamjames-29088.medium.com/">
-  <img align="left" alt"Adam's Medium Blog" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/medium.svg" />
-</a>
 <a href="https://open.spotify.com/user/a_james324?si=0e7532a7a124444b">
   <img align="left" alt"Adam's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
