@@ -2,9 +2,9 @@
 <a href="https://www.linkedin.com/in/adam-h-james/">
   <img align="left" alt="Adam's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/a_james324?si=0e7532a7a124444b">
+<!-- <a href="https://open.spotify.com/user/a_james324?si=0e7532a7a124444b">
   <img align="left" alt"Adam's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+</a> -->
 <br>
 <br>
 
