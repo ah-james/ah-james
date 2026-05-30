@@ -6,7 +6,6 @@
   <img align="left" alt"Adam's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a> -->
 <br>
-<br>
 
 
 I'm a Flatiron School graduate, Penn State University graduate, Full Stack Software Engineer, semi-professional drummer, aspiring home chef, and Spotify playlist connoisseur. I've been playing the drums for 18 years, and I strive to cross the creativity I find behind the drum set into the code I write to create efficient, sophisticated applications.
