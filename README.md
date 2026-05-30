@@ -1,7 +1,7 @@
 ### Hi, I'm Adam 👋
-<a href="https://www.linkedin.com/in/adam-h-james/">
+<!-- <a href="https://www.linkedin.com/in/adam-h-james/">
   <img align="left" alt="Adam's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a> -->
 <!-- <a href="https://open.spotify.com/user/a_james324?si=0e7532a7a124444b">
   <img align="left" alt"Adam's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a> -->
@@ -11,7 +11,7 @@
 
 I'm a Flatiron School graduate, Penn State University graduate, Full Stack Software Engineer, semi-professional drummer, aspiring home chef, and Spotify playlist connoisseur. I've been playing the drums for 18 years, and I strive to cross the creativity I find behind the drum set into the code I write to create efficient, sophisticated applications.
 
-Any questions for me? Please reach out to my LinkedIn or [email](mailto:11ahj11@gmail.com). You can also check out a project I've built [here](https://react-bouncr.web.app/).
+Any questions for me? Please reach out to my [LinkedIn](https://www.linkedin.com/in/adam-h-james/) or [email](mailto:11ahj11@gmail.com). You can also check out a project I've built [here](https://react-bouncr.web.app/).
 
 **Languages and Tools**
 
